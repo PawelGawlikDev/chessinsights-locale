@@ -476,6 +476,24 @@
   "modelReady": {
     "message": "Board recognition ready"
   },
+  "translationsTitle": {
+    "message": "Help translate ChessInsights"
+  },
+  "translationsDescription": {
+    "message": "Everyone can help. Improve an existing language or add your own in our open-source translation repository. You don't need to write code."
+  },
+  "translationsLanguage": {
+    "message": "Supported language"
+  },
+  "translationsCoverage": {
+    "message": "Message coverage"
+  },
+  "translationsContribute": {
+    "message": "Help translate on GitHub"
+  },
+  "translationsNote": {
+    "message": "Coverage counts non-empty extension messages against English, not translation quality. Translations are bundled with each extension release."
+  },
   "preloadModelTitle": {
     "message": "Load board recognition at browser startup"
   },

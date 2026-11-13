@@ -476,6 +476,24 @@
   "modelReady": {
     "message": "Rozpoznawanie szachownic gotowe"
   },
+  "translationsTitle": {
+    "message": "Pomóż przetłumaczyć ChessInsights"
+  },
+  "translationsDescription": {
+    "message": "Każdy może pomóc. Popraw istniejące tłumaczenie lub dodaj swój język w naszym otwartym repozytorium tłumaczeń. Nie musisz umieć programować."
+  },
+  "translationsLanguage": {
+    "message": "Obsługiwany język"
+  },
+  "translationsCoverage": {
+    "message": "Pokrycie tłumaczenia"
+  },
+  "translationsContribute": {
+    "message": "Pomóż w tłumaczeniu na GitHubie"
+  },
+  "translationsNote": {
+    "message": "Pokrycie oznacza odsetek niepustych komunikatów rozszerzenia względem wersji angielskiej, a nie jakość tłumaczenia. Tłumaczenia są dołączane do każdego wydania rozszerzenia."
+  },
   "preloadModelTitle": {
     "message": "Wczytuj rozpoznawanie szachownic przy starcie przeglądarki"
   },
