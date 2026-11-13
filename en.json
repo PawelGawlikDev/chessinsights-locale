@@ -1,0 +1,485 @@
+{
+  "loading": {
+    "message": "Loading..."
+  },
+  "analyze": {
+    "message": "Analyze"
+  },
+  "photo": {
+    "message": "Photo"
+  },
+  "edit": {
+    "message": "Edit"
+  },
+  "colorMove": {
+    "message": "Color move"
+  },
+  "reset": {
+    "message": "Reset"
+  },
+  "somethingWrong": {
+    "message": "Something went wrong"
+  },
+  "tryAgain": {
+    "message": "Try Again"
+  },
+  "invalidFen": {
+    "message": "Detected FEN is invalid"
+  },
+  "noChessboardFound": {
+    "message": "No chessboard found."
+  },
+  "noBoardsHint": {
+    "message": "Open a page with a chessboard, then press Scan screen to find it."
+  },
+  "typeOfModel": {
+    "message": "Choose type of model"
+  },
+  "lichess": {
+    "message": "Lichess"
+  },
+  "chesscom": {
+    "message": "Chess.com"
+  },
+  "copyFen": {
+    "message": "Copy FEN"
+  },
+  "savePosition": {
+    "message": "Save"
+  },
+  "saved": {
+    "message": "Saved"
+  },
+  "savedPositions": {
+    "message": "Saved Positions"
+  },
+  "emptySavedPositions": {
+    "message": "No saved positions yet. Save a position from the analysis board to build your library."
+  },
+  "connectLichess": {
+    "message": "Lichess connection"
+  },
+  "rating": {
+    "message": "Rating"
+  },
+  "disconnectLichess": {
+    "message": "Disconnect"
+  },
+  "lichessConnectDescription": {
+    "message": "Lichess only shares opening explorer statistics with signed-in users. Signing in gives ChessInsights read-only access to public data — it can't play, post or change anything on your account."
+  },
+  "lichessTokenPlaceholder": {
+    "message": "Paste your personal access token"
+  },
+  "connectButton": {
+    "message": "Connect"
+  },
+  "lichessGetToken": {
+    "message": "Create a personal access token"
+  },
+  "lichessInvalidToken": {
+    "message": "Invalid token. Check the token and try again."
+  },
+  "chessboardsFound": {
+    "message": "Boards from your last scan"
+  },
+  "step": {
+    "message": "Step"
+  },
+  "next": {
+    "message": "Next"
+  },
+  "previous": {
+    "message": "Previous"
+  },
+  "welcomeTitle": {
+    "message": "Welcome to ChessInsights.ai"
+  },
+  "welcomeSubtitle": {
+    "message": "Your AI-powered chess analysis companion"
+  },
+  "featureAnalyze": {
+    "message": "Instant Chess Analysis"
+  },
+  "featureAnalyzeDesc": {
+    "message": "Analyze any chess position using advanced AI models to get move evaluations and recommendations"
+  },
+  "featureSupport": {
+    "message": "Multi-Platform Support"
+  },
+  "featureSupportDesc": {
+    "message": "Works seamlessly with Lichess, Chess.com, and local files using file:// URLs"
+  },
+  "featureVisual": {
+    "message": "Beautiful Visualizations"
+  },
+  "featureVisualDesc": {
+    "message": "See evaluation graphs, move suggestions, and performance metrics in an intuitive dashboard"
+  },
+  "fileUrlTitle": {
+    "message": "Enable File URL Access"
+  },
+  "fileUrlSubtitle": {
+    "message": "Allow the extension to read chess positions from local files"
+  },
+  "fileUrlExplain": {
+    "message": "To analyze chess diagrams from local PDF files or screenshots, ChessInsights needs permission to access file:// URLs. We'll guide you to the Chrome extensions settings to enable this."
+  },
+  "howToEnable": {
+    "message": "How to Enable File URL Access"
+  },
+  "step1Permission": {
+    "message": "Click the 'Open Extension Settings' button below"
+  },
+  "step2Permission": {
+    "message": "In the Extensions page, find ChessInsights and toggle 'Allow access to file URLs'"
+  },
+  "step3Permission": {
+    "message": "Return to this page and click 'Next' to continue"
+  },
+  "permissionNote": {
+    "message": "Your files remain private - the extension only analyzes chess positions and never uploads your data"
+  },
+  "grantPermission": {
+    "message": "Open Extension Settings"
+  },
+  "howItWorksTitle": {
+    "message": "How ChessInsights Works"
+  },
+  "howItWorksSubtitle": {
+    "message": "Three simple steps to chess mastery"
+  },
+  "step1How": {
+    "message": "Capture the Board"
+  },
+  "step1HowDesc": {
+    "message": "Take a screenshot or select a chessboard from any website - Lichess, Chess.com, or local files"
+  },
+  "step2How": {
+    "message": "AI Analysis"
+  },
+  "step2HowDesc": {
+    "message": "Our neural networks detect the position and analyze it using chess engines"
+  },
+  "step3How": {
+    "message": "View Results"
+  },
+  "step3HowDesc": {
+    "message": "See evaluation scores, best moves, and improvement suggestions in your personal dashboard"
+  },
+  "aiModelNote": {
+    "message": "The AI model is loaded on your first analysis. Subsequent analyses will be faster!"
+  },
+  "practiceTitle": {
+    "message": "Try It On a Sample Board"
+  },
+  "practiceSubtitle": {
+    "message": "This preview mirrors the kind of chessboard ChessInsights can detect and analyze for you."
+  },
+  "practiceBoardTitle": {
+    "message": "Practice position"
+  },
+  "practiceBoardSubtitle": {
+    "message": "A classic Ruy Lopez setup used as a quick example"
+  },
+  "practiceHint": {
+    "message": "Open a real chess page, then use Scan screen to find the visible board and continue into save, edit, and move-search flows."
+  },
+  "practiceStep1": {
+    "message": "Open any board"
+  },
+  "practiceStep1Desc": {
+    "message": "Visit Lichess, Chess.com, or a local file with a visible chessboard."
+  },
+  "practiceStep2": {
+    "message": "Scan the screen"
+  },
+  "practiceStep2Desc": {
+    "message": "Open the extension and press Scan screen to detect the position on screen."
+  },
+  "practiceStep3": {
+    "message": "Review and continue"
+  },
+  "practiceStep3Desc": {
+    "message": "Check the evaluation, save the position, or search moves in the dashboard."
+  },
+  "practicePinTitle": {
+    "message": "Pin the extension"
+  },
+  "practicePinSubtitle": {
+    "message": "Keep ChessInsights one click away"
+  },
+  "practicePinHint": {
+    "message": "Use Chrome's Extensions menu and pin ChessInsights to the toolbar so you can open it instantly on any chess page."
+  },
+  "practiceNote": {
+    "message": "If the side to move looks wrong, you can edit the board or flip the move side after saving the position."
+  },
+  "allSetTitle": {
+    "message": "You're All Set!"
+  },
+  "allSetSubtitle": {
+    "message": "Time to start analyzing chess like a master"
+  },
+  "tipAnalyze": {
+    "message": "Visit any chess website and click the extension icon to analyze positions"
+  },
+  "tipModels": {
+    "message": "The first scan after starting the browser takes a few seconds longer while board recognition starts up."
+  },
+  "tipDashboard": {
+    "message": "Analyze on you favorite chess site or localy. If you need save this pozition you can save it to your dashboard for later review."
+  },
+  "getDashboard": {
+    "message": "Open Dashboard"
+  },
+  "likeChessInsights": {
+    "message": "Like ChessInsights.ai?"
+  },
+  "rateIt": {
+    "message": "Rate it!"
+  },
+  "analyticsTitle": {
+    "message": "Help Us Improve"
+  },
+  "analyticsDescription": {
+    "message": "Allow ChessInsights to collect anonymous usage data to improve features and performance"
+  },
+  "allowAnalytics": {
+    "message": "Allow Analytics"
+  },
+  "analyticsNote": {
+    "message": "Your personal chess data is never collected - only feature usage and performance metrics"
+  },
+  "privacyPolicy": {
+    "message": "Learn more in our Privacy Policy"
+  },
+  "localAnalyze": {
+    "message": "Built-in board"
+  },
+  "illegalFen": {
+    "message": "Detected position is illegal - wrong side to move"
+  },
+  "supportOnKofi": {
+    "message": "Support on Ko-fi"
+  },
+  "supportWithChesscom": {
+    "message": "Support by buying a Chess.com membership (referral link)"
+  },
+  "supportTitle": {
+    "message": "Support the Project"
+  },
+  "supportDescription": {
+    "message": "If you find ChessInsights useful, support its development on Ko-fi or by buying a Chess.com membership through our referral link."
+  },
+  "tipSupport": {
+    "message": "Enjoying ChessInsights? Support its development on Ko-fi or by buying a Chess.com membership through our referral link!"
+  },
+  "editorTitle": {
+    "message": "Edit Position"
+  },
+  "editorHint": {
+    "message": "Drag pieces onto the board. Drag a piece off the board to remove it."
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "usePosition": {
+    "message": "Use position"
+  },
+  "white": {
+    "message": "White"
+  },
+  "draws": {
+    "message": "Draws"
+  },
+  "black": {
+    "message": "Black"
+  },
+  "back": {
+    "message": "Back"
+  },
+  "masters": {
+    "message": "Masters"
+  },
+  "topGames": {
+    "message": "Top games"
+  },
+  "noOpening": {
+    "message": "Position"
+  },
+  "openInLichess": {
+    "message": "Open in Lichess"
+  },
+  "searchInLichess": {
+    "message": "Open analysis board"
+  },
+  "lichessExplorer": {
+    "message": "Lichess Explorer"
+  },
+  "explorerEmpty": {
+    "message": "Open a position in the board analyze view to see opening explorer stats."
+  },
+  "explorerError": {
+    "message": "Couldn't load explorer data. Try again."
+  },
+  "explorerAuthRequired": {
+    "message": "Lichess only shares opening statistics with signed-in users. Signing in is optional and read-only — the engine, moves and videos work without it."
+  },
+  "explorerNoGames": {
+    "message": "No games found for this position."
+  },
+  "openSettings": {
+    "message": "Open settings"
+  },
+  "explorerTab": {
+    "message": "Explorer"
+  },
+  "engineTab": {
+    "message": "Engine"
+  },
+  "movesTab": {
+    "message": "Moves"
+  },
+  "videosTab": {
+    "message": "Videos"
+  },
+  "videoSearch": {
+    "message": "Video matches"
+  },
+  "videosEmpty": {
+    "message": "Open a position in the board analyze view to find YouTube videos that reach it."
+  },
+  "videosLoading": {
+    "message": "Searching videos…"
+  },
+  "videosError": {
+    "message": "Couldn't load video matches. Try again."
+  },
+  "videosNoResults": {
+    "message": "No indexed videos reach this position yet."
+  },
+  "videosLoadMore": {
+    "message": "Load more"
+  },
+  "explorerPreviewCurrentPosition": {
+    "message": "Current position"
+  },
+  "explorerPreviewAfterMove": {
+    "message": "After move"
+  },
+  "explorerPreviewIdleHint": {
+    "message": "Hover a move to preview the resulting board."
+  },
+  "explorerPreviewHint": {
+    "message": "Preview updates for the hovered move before you drill in."
+  },
+  "scanScreen": {
+    "message": "Scan screen"
+  },
+  "selectArea": {
+    "message": "Select area"
+  },
+  "openInChesscom": {
+    "message": "Open in Chess.com"
+  },
+  "scanning": {
+    "message": "Scanning…"
+  },
+  "preparingRecognition": {
+    "message": "Starting up…"
+  },
+  "cannotScanPage": {
+    "message": "This page can't be scanned. Open a page with a chessboard and try again."
+  },
+  "foundOn": {
+    "message": "Found on"
+  },
+  "whiteToMove": {
+    "message": "White to move"
+  },
+  "blackToMove": {
+    "message": "Black to move"
+  },
+  "sideToMove": {
+    "message": "Side to move"
+  },
+  "bestMoves": {
+    "message": "Best moves"
+  },
+  "bestMovesHint": {
+    "message": "Lichess cloud evaluation of the top moves, in pawns."
+  },
+  "noCloudEval": {
+    "message": "Lichess has no cloud evaluation for this position yet. Open it in Lichess to run the engine."
+  },
+  "analysisBoard": {
+    "message": "Analysis board"
+  },
+  "copied": {
+    "message": "Copied"
+  },
+  "showAll": {
+    "message": "Show all"
+  },
+  "scanAgain": {
+    "message": "Scan again"
+  },
+  "openBoard": {
+    "message": "Open board"
+  },
+  "pickBoard": {
+    "message": "Several boards found — pick one."
+  },
+  "platformSettingTitle": {
+    "message": "Open positions in"
+  },
+  "platformSettingDescription": {
+    "message": "Where the main button sends a scanned position."
+  },
+  "playFrom": {
+    "message": "Play from"
+  },
+  "alsoAt": {
+    "message": "Also at"
+  },
+  "signInWithLichess": {
+    "message": "Sign in with Lichess"
+  },
+  "lichessReadOnly": {
+    "message": "Read-only access"
+  },
+  "usePersonalToken": {
+    "message": "Use a personal token instead"
+  },
+  "hidePersonalToken": {
+    "message": "Hide personal token"
+  },
+  "personalTokenTitle": {
+    "message": "Personal access token"
+  },
+  "personalTokenHint": {
+    "message": "For advanced users. Create a token with no scopes selected, then paste it here."
+  },
+  "lichessCollapsedHint": {
+    "message": "Optional — unlocks the opening explorer."
+  },
+  "lichessSignInFailed": {
+    "message": "Couldn't sign in to Lichess. Try again."
+  },
+  "loadModelNow": {
+    "message": "Load recognition now"
+  },
+  "loadModelHint": {
+    "message": "Optional — the first scan loads it automatically."
+  },
+  "modelReady": {
+    "message": "Board recognition ready"
+  },
+  "preloadModelTitle": {
+    "message": "Load board recognition at browser startup"
+  },
+  "preloadModelDescription": {
+    "message": "Makes the first scan instant, at the cost of some memory used in the background from the moment the browser starts. Off by default."
+  }
+}

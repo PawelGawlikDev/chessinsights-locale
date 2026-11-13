@@ -1,0 +1,485 @@
+{
+  "loading": {
+    "message": "Ładowanie..."
+  },
+  "analyze": {
+    "message": "Analizuj"
+  },
+  "photo": {
+    "message": "Zdjęcie"
+  },
+  "edit": {
+    "message": "Edytuj"
+  },
+  "colorMove": {
+    "message": "Posunięcie"
+  },
+  "reset": {
+    "message": "Reset"
+  },
+  "somethingWrong": {
+    "message": "Coś poszło nie tak"
+  },
+  "tryAgain": {
+    "message": "Spróbuj ponownie"
+  },
+  "invalidFen": {
+    "message": "Wykryto FEN, który jest nieprawidłowy"
+  },
+  "noChessboardFound": {
+    "message": "Nie znaleziono szachownicy"
+  },
+  "noBoardsHint": {
+    "message": "Otwórz stronę z szachownicą, a następnie naciśnij Skanuj ekran, aby ją znaleźć."
+  },
+  "typeOfModel": {
+    "message": "Wybierz typ modelu"
+  },
+  "lichess": {
+    "message": "Lichess"
+  },
+  "chesscom": {
+    "message": "Chess.com"
+  },
+  "copyFen": {
+    "message": "Kopiuj FEN"
+  },
+  "savePosition": {
+    "message": "Zapisz"
+  },
+  "saved": {
+    "message": "Zapisano"
+  },
+  "savedPositions": {
+    "message": "Zapisane pozycje"
+  },
+  "emptySavedPositions": {
+    "message": "Brak zapisanych pozycji. Zapisz pozycję z planszy analizy, aby zbudować swoją bibliotekę."
+  },
+  "connectLichess": {
+    "message": "Połączenie z Lichess"
+  },
+  "rating": {
+    "message": "Ranking"
+  },
+  "disconnectLichess": {
+    "message": "Rozłącz"
+  },
+  "lichessConnectDescription": {
+    "message": "Lichess udostępnia statystyki eksploratora otwarć tylko zalogowanym użytkownikom. Logowanie daje ChessInsights dostęp tylko do odczytu publicznych danych — rozszerzenie nie może grać, publikować ani nic zmieniać na Twoim koncie."
+  },
+  "lichessTokenPlaceholder": {
+    "message": "Wklej swój osobisty token dostępu"
+  },
+  "connectButton": {
+    "message": "Połącz"
+  },
+  "lichessGetToken": {
+    "message": "Utwórz osobisty token dostępu"
+  },
+  "lichessInvalidToken": {
+    "message": "Nieprawidłowy token. Sprawdź token i spróbuj ponownie."
+  },
+  "chessboardsFound": {
+    "message": "Szachownice z ostatniego skanu"
+  },
+  "step": {
+    "message": "Krok"
+  },
+  "next": {
+    "message": "Dalej"
+  },
+  "previous": {
+    "message": "Wstecz"
+  },
+  "welcomeTitle": {
+    "message": "Witaj w ChessInsights.ai"
+  },
+  "welcomeSubtitle": {
+    "message": "Twój asystent analizy szachów wspierany przez AI"
+  },
+  "featureAnalyze": {
+    "message": "Natychmiastowa analiza szachów"
+  },
+  "featureAnalyzeDesc": {
+    "message": "Analizuj dowolną pozycję szachową za pomocą zaawansowanych modeli AI, aby uzyskać oceny posunięć i rekomendacje"
+  },
+  "featureSupport": {
+    "message": "Wsparcie dla wielu platform"
+  },
+  "featureSupportDesc": {
+    "message": "Współpracuje bezproblemowo z Lichess, Chess.com i plikami lokalnymi przy użyciu adresów URL file://"
+  },
+  "featureVisual": {
+    "message": "Piękne wizualizacje"
+  },
+  "featureVisualDesc": {
+    "message": "Przeglądaj wykresy ocen, sugestie posunięć i metryki wydajności w intuicyjnym panelu"
+  },
+  "fileUrlTitle": {
+    "message": "Włącz dostęp do plików URL"
+  },
+  "fileUrlSubtitle": {
+    "message": "Zezwól rozszerzeniu na odczytywanie pozycji szachowych z plików lokalnych"
+  },
+  "fileUrlExplain": {
+    "message": "Aby analizować diagramy szachowe z lokalnych plików HTML lub zrzutów ekranu, ChessInsights potrzebuje uprawnienia dostępu do adresów URL file://. Pokażemy Ci, jak przejść do ustawień rozszerzeń Chrome, aby to włączyć."
+  },
+  "howToEnable": {
+    "message": "Jak włączyć dostęp do plików URL"
+  },
+  "step1Permission": {
+    "message": "Kliknij przycisk \"Otwórz ustawienia rozszerzenia\" poniżej"
+  },
+  "step2Permission": {
+    "message": "Na stronie rozszerzeń znajdź ChessInsights i włącz \"Zezwól na dostęp do adresów URL plików\""
+  },
+  "step3Permission": {
+    "message": "Wróć do tej strony i kliknij \"Dalej\", aby kontynuować"
+  },
+  "permissionNote": {
+    "message": "Twoje pliki pozostają prywatne - rozszerzenie tylko analizuje pozycje szachowe i nigdy nie przesyła twoich danych"
+  },
+  "grantPermission": {
+    "message": "Otwórz ustawienia rozszerzenia"
+  },
+  "howItWorksTitle": {
+    "message": "Jak działa ChessInsights"
+  },
+  "howItWorksSubtitle": {
+    "message": "Trzy proste kroki do szachowego mistrzostwa"
+  },
+  "step1How": {
+    "message": "Przechwyć szachownicę"
+  },
+  "step1HowDesc": {
+    "message": "Zrób zrzut ekranu lub wybierz szachownicę z dowolnej witryny - Lichess, Chess.com lub plik lokalny"
+  },
+  "step2How": {
+    "message": "Analiza AI"
+  },
+  "step2HowDesc": {
+    "message": "Nasze sieci neuronowe wykrywają pozycję i analizują ją za pomocą silników szachowych"
+  },
+  "step3How": {
+    "message": "Wyświetl wyniki"
+  },
+  "step3HowDesc": {
+    "message": "Przeglądaj wyniki oceny, najlepsze posunięcia i sugestie ulepszeń w swoim osobistym pulpicie"
+  },
+  "aiModelNote": {
+    "message": "Model AI zostaje załadowany podczas pierwszej analizy. Kolejne analizy będą szybsze!"
+  },
+  "practiceTitle": {
+    "message": "Wypróbuj na przykładowej szachownicy"
+  },
+  "practiceSubtitle": {
+    "message": "Ten podgląd pokazuje typ szachownicy, którą ChessInsights potrafi wykryć i przeanalizować."
+  },
+  "practiceBoardTitle": {
+    "message": "Pozycja testowa"
+  },
+  "practiceBoardSubtitle": {
+    "message": "Klasyczne ustawienie partii hiszpańskiej jako szybki przykład"
+  },
+  "practiceHint": {
+    "message": "Otwórz prawdziwą stronę szachową, a potem użyj Skanuj ekran, aby znaleźć widoczną planszę i przejść dalej do zapisu, edycji i wyszukiwania ruchów."
+  },
+  "practiceStep1": {
+    "message": "Otwórz dowolną planszę"
+  },
+  "practiceStep1Desc": {
+    "message": "Wejdź na Lichess, Chess.com albo otwórz plik lokalny z widoczną szachownicą."
+  },
+  "practiceStep2": {
+    "message": "Zeskanuj ekran"
+  },
+  "practiceStep2Desc": {
+    "message": "Otwórz rozszerzenie i kliknij Skanuj ekran, aby wykryć pozycję widoczną na ekranie."
+  },
+  "practiceStep3": {
+    "message": "Sprawdź wynik i działaj dalej"
+  },
+  "practiceStep3Desc": {
+    "message": "Zobacz ocenę, zapisz pozycję albo wyszukaj ruchy w dashboardzie."
+  },
+  "practicePinTitle": {
+    "message": "Przypnij rozszerzenie"
+  },
+  "practicePinSubtitle": {
+    "message": "Miej ChessInsights zawsze pod ręką"
+  },
+  "practicePinHint": {
+    "message": "Użyj menu Rozszerzenia w Chrome i przypnij ChessInsights do paska narzędzi, aby otwierać je jednym kliknięciem na dowolnej stronie szachowej."
+  },
+  "practiceNote": {
+    "message": "Jeśli strona do ruchu wygląda niepoprawnie, możesz edytować planszę albo zmienić stronę do ruchu po zapisaniu pozycji."
+  },
+  "allSetTitle": {
+    "message": "Wszystko gotowe!"
+  },
+  "allSetSubtitle": {
+    "message": "Czas zacząć analizować szachy jak mistrz"
+  },
+  "tipAnalyze": {
+    "message": "Odwiedź dowolną witrynę szachową i kliknij ikonę rozszerzenia, aby analizować pozycje"
+  },
+  "tipModels": {
+    "message": "Pierwsze skanowanie po uruchomieniu przeglądarki trwa kilka sekund dłużej, bo rozpoznawanie szachownic musi się uruchomić."
+  },
+  "tipDashboard": {
+    "message": "Otwórz panel, aby zobaczyć historię analizy i statystyki"
+  },
+  "getDashboard": {
+    "message": "Otwórz panel"
+  },
+  "likeChessInsights": {
+    "message": "Podoba Ci się ChessInsights.ai?"
+  },
+  "rateIt": {
+    "message": "Oceń to!"
+  },
+  "analyticsTitle": {
+    "message": "Pomóż nam się udoskonalić"
+  },
+  "analyticsDescription": {
+    "message": "Zezwól ChessInsights na zbieranie anonimowych danych użytkowania w celu ulepszania funkcji i wydajności"
+  },
+  "allowAnalytics": {
+    "message": "Zezwól na analytics"
+  },
+  "analyticsNote": {
+    "message": "Twoje osobiste dane szachowe nigdy nie są zbierane - tylko metryki użytkowania funkcji i wydajności"
+  },
+  "privacyPolicy": {
+    "message": "Dowiedz się więcej w naszej Polityce Prywatności"
+  },
+  "localAnalyze": {
+    "message": "Wbudowana tablica"
+  },
+  "illegalFen": {
+    "message": "Wykryta pozycja jest nielegalna - zła strona do ruchu"
+  },
+  "supportOnKofi": {
+    "message": "Wesprzyj na Ko-fi"
+  },
+  "supportWithChesscom": {
+    "message": "Wesprzyj projekt, kupując członkostwo Chess.com (link partnerski)"
+  },
+  "supportTitle": {
+    "message": "Wesprzyj projekt"
+  },
+  "supportDescription": {
+    "message": "Jeśli podoba Ci się ChessInsights, wesprzyj jego rozwój na Ko-fi lub kup członkostwo Chess.com przez nasz link partnerski."
+  },
+  "tipSupport": {
+    "message": "Podoba Ci się ChessInsights? Wesprzyj rozwój na Ko-fi lub kup członkostwo Chess.com przez nasz link partnerski!"
+  },
+  "editorTitle": {
+    "message": "Edytuj pozycję"
+  },
+  "editorHint": {
+    "message": "Przeciągnij figury na szachownicę. Przeciągnij figurę poza planszę, aby ją usunąć."
+  },
+  "cancel": {
+    "message": "Anuluj"
+  },
+  "usePosition": {
+    "message": "Użyj pozycji"
+  },
+  "white": {
+    "message": "Białe"
+  },
+  "draws": {
+    "message": "Remisy"
+  },
+  "black": {
+    "message": "Czarne"
+  },
+  "back": {
+    "message": "Wstecz"
+  },
+  "masters": {
+    "message": "Mistrzowie"
+  },
+  "topGames": {
+    "message": "Najlepsze partie"
+  },
+  "noOpening": {
+    "message": "Pozycja"
+  },
+  "openInLichess": {
+    "message": "Otwórz w Lichess"
+  },
+  "searchInLichess": {
+    "message": "Otwórz tablicę analizy"
+  },
+  "lichessExplorer": {
+    "message": "Eksplorator Lichess"
+  },
+  "explorerEmpty": {
+    "message": "Otwórz pozycję w widoku analizy szachownicy, aby zobaczyć statystyki otwarcia."
+  },
+  "explorerError": {
+    "message": "Nie udało się wczytać danych eksploratora. Spróbuj ponownie."
+  },
+  "explorerAuthRequired": {
+    "message": "Lichess udostępnia statystyki otwarć tylko zalogowanym użytkownikom. Logowanie jest opcjonalne i tylko do odczytu — silnik, ruchy i filmy działają bez niego."
+  },
+  "explorerNoGames": {
+    "message": "Nie znaleziono partii dla tej pozycji."
+  },
+  "openSettings": {
+    "message": "Otwórz ustawienia"
+  },
+  "explorerTab": {
+    "message": "Eksplorator"
+  },
+  "engineTab": {
+    "message": "Silnik"
+  },
+  "movesTab": {
+    "message": "Ruchy"
+  },
+  "videosTab": {
+    "message": "Filmy"
+  },
+  "videoSearch": {
+    "message": "Dopasowane filmy"
+  },
+  "videosEmpty": {
+    "message": "Otwórz pozycję w widoku analizy szachownicy, aby znaleźć filmy na YouTube z tą pozycją."
+  },
+  "videosLoading": {
+    "message": "Szukanie filmów…"
+  },
+  "videosError": {
+    "message": "Nie udało się wczytać dopasowanych filmów. Spróbuj ponownie."
+  },
+  "videosNoResults": {
+    "message": "Żaden zindeksowany film nie zawiera jeszcze tej pozycji."
+  },
+  "videosLoadMore": {
+    "message": "Załaduj więcej"
+  },
+  "explorerPreviewCurrentPosition": {
+    "message": "Aktualna pozycja"
+  },
+  "explorerPreviewAfterMove": {
+    "message": "Po ruchu"
+  },
+  "explorerPreviewIdleHint": {
+    "message": "Najedź na ruch, aby podejrzeć wynikową pozycję."
+  },
+  "explorerPreviewHint": {
+    "message": "Podgląd aktualizuje się dla wskazanego ruchu, zanim wejdziesz głębiej."
+  },
+  "scanScreen": {
+    "message": "Skanuj ekran"
+  },
+  "selectArea": {
+    "message": "Zaznacz obszar"
+  },
+  "openInChesscom": {
+    "message": "Otwórz w Chess.com"
+  },
+  "scanning": {
+    "message": "Skanowanie…"
+  },
+  "preparingRecognition": {
+    "message": "Uruchamianie…"
+  },
+  "cannotScanPage": {
+    "message": "Tej strony nie można zeskanować. Otwórz stronę z szachownicą i spróbuj ponownie."
+  },
+  "foundOn": {
+    "message": "Znaleziono na"
+  },
+  "whiteToMove": {
+    "message": "Ruch białych"
+  },
+  "blackToMove": {
+    "message": "Ruch czarnych"
+  },
+  "sideToMove": {
+    "message": "Strona na ruchu"
+  },
+  "bestMoves": {
+    "message": "Najlepsze ruchy"
+  },
+  "bestMovesHint": {
+    "message": "Ocena najlepszych ruchów z chmury Lichess, w pionach."
+  },
+  "noCloudEval": {
+    "message": "Lichess nie ma jeszcze oceny w chmurze dla tej pozycji. Otwórz ją w Lichess, aby uruchomić silnik."
+  },
+  "analysisBoard": {
+    "message": "Tablica analizy"
+  },
+  "copied": {
+    "message": "Skopiowano"
+  },
+  "showAll": {
+    "message": "Pokaż wszystkie"
+  },
+  "scanAgain": {
+    "message": "Skanuj ponownie"
+  },
+  "openBoard": {
+    "message": "Otwórz szachownicę"
+  },
+  "pickBoard": {
+    "message": "Znaleziono kilka szachownic — wybierz jedną."
+  },
+  "platformSettingTitle": {
+    "message": "Otwieraj pozycje w"
+  },
+  "platformSettingDescription": {
+    "message": "Dokąd główny przycisk wysyła zeskanowaną pozycję."
+  },
+  "playFrom": {
+    "message": "Odtwórz od"
+  },
+  "alsoAt": {
+    "message": "Także w"
+  },
+  "signInWithLichess": {
+    "message": "Zaloguj przez Lichess"
+  },
+  "lichessReadOnly": {
+    "message": "Dostęp tylko do odczytu"
+  },
+  "usePersonalToken": {
+    "message": "Użyj osobistego tokenu"
+  },
+  "hidePersonalToken": {
+    "message": "Ukryj osobisty token"
+  },
+  "personalTokenTitle": {
+    "message": "Osobisty token dostępu"
+  },
+  "personalTokenHint": {
+    "message": "Dla zaawansowanych. Utwórz token bez zaznaczonych uprawnień i wklej go tutaj."
+  },
+  "lichessCollapsedHint": {
+    "message": "Opcjonalnie — odblokowuje eksplorator otwarć."
+  },
+  "lichessSignInFailed": {
+    "message": "Nie udało się zalogować do Lichess. Spróbuj ponownie."
+  },
+  "loadModelNow": {
+    "message": "Wczytaj rozpoznawanie teraz"
+  },
+  "loadModelHint": {
+    "message": "Opcjonalne — pierwsze skanowanie wczyta je automatycznie."
+  },
+  "modelReady": {
+    "message": "Rozpoznawanie szachownic gotowe"
+  },
+  "preloadModelTitle": {
+    "message": "Wczytuj rozpoznawanie szachownic przy starcie przeglądarki"
+  },
+  "preloadModelDescription": {
+    "message": "Pierwsze skanowanie działa od razu, kosztem pamięci używanej w tle od uruchomienia przeglądarki. Domyślnie wyłączone."
+  }
+}
